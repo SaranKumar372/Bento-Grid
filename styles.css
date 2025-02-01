@@ -132,6 +132,7 @@ h1 {
     .full-content,.grow {
         display: flex;
         flex-direction: column;
+        width:85vw;
     }
 
 
